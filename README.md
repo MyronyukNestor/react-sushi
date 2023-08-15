@@ -1,1 +1,1 @@
-github pages: https://myronyuknestor.github.io/react-sushi/
+github pages: https://myronyuknestor.github.io/react-sushi/ 
